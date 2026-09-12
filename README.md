@@ -24,7 +24,7 @@ text.
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USER/ownerrez-higgsfield-video.git
+git clone https://github.com/alphacoderutah-web/ownerrez-higgsfield-video.git
 cd ownerrez-higgsfield-video
 claude
 ```
