@@ -1,0 +1,12 @@
+# credentials
+.env
+
+# generated photos, clips and videos
+videos/
+
+# local Claude Code settings
+.claude/settings.local.json
+
+node_modules/
+.DS_Store
+Thumbs.db

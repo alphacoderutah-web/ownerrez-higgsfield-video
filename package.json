@@ -1,0 +1,13 @@
+{
+  "name": "ownerrez-higgsfield-video",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Claude Code skill: turn an OwnerRez photo gallery into a Higgsfield walkthrough video.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "check": "node .claude/skills/ownerrez-higgsfield-video/scripts/check-setup.mjs"
+  }
+}
